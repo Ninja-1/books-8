@@ -1,0 +1,18 @@
+body{
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: antiquewhite
+}
+.header{
+	text-align: center
+}
+.n{
+	font-size: 20px
+}
+.button{
+	transform: translateY(-3.2px)
+}
+li{
+	margin-top: 20px
+}
+
